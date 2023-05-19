@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33424.131
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goroskop.Android", "Goroskop.Android\Goroskop.Android.csproj", "{7AA265F8-A6E4-43BE-9DEC-D4785E94649F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Goroskop", "Goroskop\Goroskop.csproj", "{A96EDB07-052D-48F5-BB48-16CD3B8797D4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7AA265F8-A6E4-43BE-9DEC-D4785E94649F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7AA265F8-A6E4-43BE-9DEC-D4785E94649F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7AA265F8-A6E4-43BE-9DEC-D4785E94649F}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{7AA265F8-A6E4-43BE-9DEC-D4785E94649F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7AA265F8-A6E4-43BE-9DEC-D4785E94649F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7AA265F8-A6E4-43BE-9DEC-D4785E94649F}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{A96EDB07-052D-48F5-BB48-16CD3B8797D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A96EDB07-052D-48F5-BB48-16CD3B8797D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A96EDB07-052D-48F5-BB48-16CD3B8797D4}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{A96EDB07-052D-48F5-BB48-16CD3B8797D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A96EDB07-052D-48F5-BB48-16CD3B8797D4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A96EDB07-052D-48F5-BB48-16CD3B8797D4}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C44C0975-61A5-4557-905D-6F0F6699E787}
+	EndGlobalSection
+EndGlobal
